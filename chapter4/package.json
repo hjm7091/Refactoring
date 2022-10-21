@@ -1,0 +1,14 @@
+{
+  "name": "chapter4",
+  "version": "1.0.0",
+  "description": "chapter4 practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jin",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.4.0"
+  }
+}
